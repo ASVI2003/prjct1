@@ -1,0 +1,87 @@
+.h
+{
+    display:flex;
+    
+
+ 
+}
+
+.h1  p,h2,h4
+{
+    
+   
+    margin-left:150px;
+    margin-right:40px;
+    height: 51px ;
+    width:341px;
+    
+}
+.h1 h4{
+    
+    height:20px;
+    width:160px;
+}
+.h2 button,#e
+{
+    display: inline-table;
+    margin-right:40px;
+    width:140px;
+    height:40px;
+   
+   
+}
+#b
+{
+    background-color:black;
+    border-radius:4px;
+     color: white;
+     width:200px; 
+     height:50px;
+}
+#e
+{ 
+    padding-left:20px;
+  /*  border:2px solid black;*/
+    border-radius: 4px;
+    background-color: white;
+    color:grey;
+    width:280px; 
+    height:50px;
+}
+
+
+.foot
+{
+    
+    display:flex;
+    justify-content:space-between;
+    
+}
+
+.one p
+{
+/* border: black;*/
+ font-family: inter;
+
+ margin-left:150px;
+}
+.two p{
+/*    border: 1px solid white;*/
+    text-align:end;
+ font-family: inter;
+ margin-right:150px;
+ align-items: center;
+}
+.fa-linkedin {
+    background:black;
+    color: #FFCD9E;
+    border:#FFCD9E  ;
+    margin-left: 120px;
+    text-decoration: none;
+  }
+  .fa-instagram {
+    border-color: #FFCD9E ;
+    background:black;
+    color: #FFCD9E;
+    text-decoration: none;
+  }
